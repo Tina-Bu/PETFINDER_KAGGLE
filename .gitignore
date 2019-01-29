@@ -1,0 +1,10 @@
+# input data
+data/
+
+# jupyter notebook
+.ipynb_checkpoints
+
+# mac
+.DS_Store
+
+
